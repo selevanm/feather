@@ -1,6 +1,8 @@
 feather
 ======  
 
+[![Join the chat at https://gitter.im/selevanm/feather](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/selevanm/feather?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Overview
 feather is a full-featured widget-based web framework implemented in pure js. 
 The main goal is to enable rapid development of powerful RIA-type apps (long running single-page applications with real-time data being seamless).
